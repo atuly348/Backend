@@ -17,7 +17,7 @@ String name=req.getParameter("usern") ;
     String course=req.getParameter("userc") ;
     out.println("Name :"+name);
     out.println("");
-    out.println("Email :"+ email);
+    out.println("Emallil :"+ email);
     out.println("Password :"+password);
     out.println("Gender :"+gender);
     out.println("Course:"+course);
